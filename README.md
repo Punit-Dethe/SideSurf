@@ -95,6 +95,56 @@
   - Organize shortcuts by category or priority
 - **Global Access**: Use your custom shortcuts from anywhere in the browser
 
+## 🚀 Future Plans
+
+<div align="center">
+  <h3>✨ Coming Soon to SideSurf ✨</h3>
+</div>
+
+### 🎯 Upcoming Features
+> 🌟 **Major Updates on the Horizon!**
+
+1. 🎨 **Frosted Glass Interface**
+   - Beautiful transparent effects
+   - Modern and sleek design
+
+2. 📌 **Permanent Taskbar & System Tray**
+   - Always visible on your taskbar
+   - Quick access from system tray
+   - No more disappearing windows!
+
+3. 🎭 **Dynamic Tab System**
+   - Movable tabs for better organization
+   - Support for unlimited tabs
+   - Dynamic tab Size
+
+4. ⚡ **Enhanced Shortcut Manager**
+   - Working interface for url shortcut
+   - Easier shortcut management
+   - Quick website access
+
+5. 🤖 **Improved AI Features**
+   - Faster response times
+   - More accurate results
+
+### 🎁 Optional Features
+> 💫 **Potential Additions**
+
+1. 🧠 **ChatGPT Integration**
+   - All image and text features 
+   - Potential voice interaction 
+
+2. 📚 **Bookmarks System**
+   - Easy bookmark management
+   - Quick access to favorites
+   - Organized collections
+
+<div align="center">
+  <p><i>🌈 Stay tuned for these exciting updates! 🌈</i></p>
+</div>
+
+*Note: These features are in development and will be released in future updates.*
+
 ## 🤝 Contributing
 
 We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting pull requests.
