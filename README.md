@@ -63,6 +63,6 @@ For a detailed list of changes, please refer to our [Changelog](CHANGELOG.md).
 ---
 
 <div align="center">
-  <p>Made with ❤️ by the SideSurf Team</p>
+  <p>Made with ❤️ by the Punit Dethe</p>
 </div>
  
