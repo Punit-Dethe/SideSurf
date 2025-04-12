@@ -1,7 +1,7 @@
 # SideSurf - Your Intelligent Side Browser
 
 <div align="center">
-  <img src="https://i.postimg.cc/yxtXb3Qq/my-image-1.png" alt="SideSurf Logo" width="400"/>
+  <img src="https://i.postimg.cc/yxtXb3Qq/my-image-1.png" alt="SideSurf Logo" width="200"/>
   
   [![Download SideSurf](https://img.shields.io/badge/Download-SideSurf-blue?style=for-the-badge&logo=windows)](https://drive.google.com/drive/folders/1xbnh90utRbWriRNcO3yXN8ly-TnFxT62?usp=sharing)
 </div>
@@ -17,6 +17,19 @@
 6. Follow the installation wizard instructions
 7. Launch SideSurf using ctrl + ` (located above the tab key) and start browsing!
 
+## 💡 Recommendations for Best Experience
+
+### Essential Setup
+- **Sign in to Google**: We recommend signing in to your Google account before using the browser to ensure all features work smoothly
+- **Pin Browser**: Pin the Browser so it does not appear and dissaper from taskbar during usage [Optional] (btw i am trying to fix that)
+- **Explore Settings**: Take time to explore the browser settings to discover and customize all available features
+
+### Getting Started Tips
+- Visit our GitHub page to learn about the latest features and updates
+- Check the browser settings menu for additional customization options
+- Experiment with keyboard shortcuts to find your preferred workflow
+- Set up your favorite website shortcuts early for maximum productivity
+- Keep the browser updated to access the newest features
 
 ## 🌟 Features
 
@@ -97,6 +110,6 @@ For a detailed list of changes, please refer to our [Changelog](CHANGELOG.md).
 ---
 
 <div align="center">
-  <p>Made with ❤️ by the SideSurf Team</p>
+  <p>Made with ❤️ by the Punit Dethe</p>
 </div>
  
