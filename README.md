@@ -95,6 +95,8 @@
   - Organize shortcuts by category or priority
 - **Global Access**: Use your custom shortcuts from anywhere in the browser
 
+
+
 ## 🚀 Future Plans
 
 <div align="center">
@@ -145,9 +147,7 @@
 
 *Note: These features are in development and will be released in future updates.*
 
-## 🤝 Contributing
 
-We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting pull requests.
 
 ## 📜 License
 
