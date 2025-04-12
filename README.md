@@ -6,6 +6,18 @@
   [![Download SideSurf](https://img.shields.io/badge/Download-SideSurf-blue?style=for-the-badge&logo=windows)](https://drive.google.com/drive/folders/1w5jvPfKOgPQ721JeD3oR3c0GN5qjMwGK?usp=sharing)
 </div>
 
+
+## 📥 Download & Install
+
+1. Click the "Download SideSurf" button above
+2. This will open Google Drive in your browser
+3. Download the Application folder to your computer
+4. Open the downloaded folder
+5. Run the `SideSurf Setup 1.0.0.exe` file to start the installation
+6. Follow the installation wizard instructions
+7. Launch SideSurf using ctrl + ` (located above the tab key) and start browsing!
+
+
 ## 🌟 Features
 
 ### 🎯 Core Features
@@ -17,22 +29,26 @@
   - Efficient tab closing (Control+W)
 - **Smart Visibility Controls**: Keyboard shortcuts only work when the browser is visible
 
-### 🛠️ Productivity Tools
-- **Quick Access Panel**: Toggle with Control+`
-- **Selection Explanation**: Highlight text and press Alt+X for instant explanations
-- **Voice Assistant**: Activate with Alt+Z for hands-free browsing
 
-### 🎨 User Experience
-- **Modern Interface**: Clean, intuitive design
-- **Customizable Shortcuts**: Personalize your browsing experience
-- **Smooth Navigation**: Optimized for both mouse and keyboard users
+### 🤖 AI-Powered Features
 
-## 📥 Download & Install
+#### 🖼️ Image Analysis
+- **Smart Image Understanding**: Copy any image and use Alt+X to get detailed analysis
+- **Visual Search**: Get contextual information about images in your browser
+- **Image Description**: Automatically generate alt text and descriptions for better accessibility
 
-1. Visit our [Download Page](https://drive.google.com/drive/folders/1xbnh90utRbWriRNcO3yXN8ly-TnFxT62?usp=sharing)
-2. Download `SideSurf Setup 1.0.0.exe`
-3. Run the installer and follow the setup wizard
-4. Launch SideSurf and start browsing!
+#### 📝 Text Intelligence
+- **Selection Explanation**: Highlight and Copy any text and press Alt+X for instant AI-powered explanations
+- **Contextual Understanding**: Get deeper insights into complex topics
+- **Language Translation**: Quick translations with AI-powered context preservation
+- **Content Summarization**: Generate concise summaries of web content
+
+#### 🎤 Voice Interaction
+- **Voice Commands**: Press Alt+Z to activate voice assistant for hands-free browsing
+- **Natural Language Processing**: Speak naturally to control your browser
+- **Voice Search**: Search the web using voice commands
+- **Text-to-Speech**: Have web content read aloud to you
+
 
 ## ⌨️ Keyboard Shortcuts
 
@@ -45,8 +61,26 @@
 | Control+Shift+Tab | Previous Tab |
 | Control+Up | Previous Tab (Vertical) |
 | Control+Down | Next Tab (Vertical) |
-| Alt+X | Explain Selection |
-| Alt+Z | Activate Voice Assistant |
+| Alt+X | AI Text/Image Analysis |
+| Alt+Z | Voice Assistant |
+| Control+Shift+A | Add Custom URL |
+| Control+Shift+Space | Quick Access Custom URLs |
+
+## 🔧 Customization
+
+
+### Custom Website Shortcuts
+- **Personalized Shortcuts**: Assign custom keyboard shortcuts to your favorite websites
+- **Quick Access**: Open any saved website instantly with your custom shortcut
+- **Easy Setup**: 
+  1. Add a website to your custom URLs
+  2. Assign a unique keyboard shortcut (e.g., Control+1, Control+2, etc.)
+  3. Press the shortcut anytime to instantly open the website
+- **Flexible Configuration**: 
+  - Change shortcuts anytime
+  - Remove or update website shortcuts
+  - Organize shortcuts by category or priority
+- **Global Access**: Use your custom shortcuts from anywhere in the browser
 
 ## 🤝 Contributing
 
@@ -63,6 +97,6 @@ For a detailed list of changes, please refer to our [Changelog](CHANGELOG.md).
 ---
 
 <div align="center">
-  <p>Made with ❤️ by the Punit Dethe</p>
+  <p>Made with ❤️ by the SideSurf Team</p>
 </div>
  
