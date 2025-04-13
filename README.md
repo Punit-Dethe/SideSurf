@@ -10,8 +10,8 @@
 ## 📥 Download & Install
 
 1. Click the "Download SideSurf" button above
-2. This will open Google Drive in your browser
-3. Download the Application folder to your computer
+2. This will open Mega Drive in your browser
+3. Click on Download button on top and select download as zip
 4. Unzip the downloaded file and Open the downloaded folder 
 5. Run the `SideSurf Setup 1.0.0.exe` file to start the installation
 6. Follow the installation wizard instructions
