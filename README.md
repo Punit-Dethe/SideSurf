@@ -1,4 +1,3 @@
-
 <div align="center">
   
 # 🌊 SideSurf
@@ -8,12 +7,9 @@
 
 <br/>
 
-
-![SideSurf Banner](https://i.postimg.cc/yxtXb3Qq/my-image-1.png)
-
+<img src="https://i.postimg.cc/yxtXb3Qq/my-image-1.png" width="300"/>
 
 [![Download Now](https://img.shields.io/badge/Download%20SideSurf-Blue?style=for-the-badge&logo=windows&logoColor=white)](https://mega.nz/folder/soZ3jDQZ#whgLD7CxcFSajd7rABWr-g)
-
 
 ---
 
@@ -118,10 +114,10 @@ Simple as that.
 # 🗺️ Roadmap: What's Coming Next?
 
 - 🎨 Sleek Frosted Glass UI  
-- 📌 taskbar and System Tray Integration   
+- 📌 Taskbar and System Tray Integration   
 - 🤖 ChatGPT Full Integration  
 
-> ** SideSurf may transition to Freemium model **
+> **SideSurf may transition to Freemium model**
 
 ---
 
@@ -153,4 +149,3 @@ If you enjoy using SideSurf, feel free to ⭐ the repo or share it with friends!
 Every bit of feedback makes it even better. 🚀
 
 ---
-
