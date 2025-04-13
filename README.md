@@ -100,8 +100,7 @@ Simple as that.
 
 # 🖥️ Screenshots & Demo
 
-*(You can add a few screenshots here later — even a short GIF would be amazing!)*  
-Want help creating a GIF demo too? 🎥🔥
+*(uploading soon 🎥🔥)*
 
 ---
 
