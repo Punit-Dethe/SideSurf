@@ -91,10 +91,8 @@ Simple as that.
 # 🗺️ Roadmap: What's Coming Next?
 
 - 🎨 Sleek Frosted Glass UI  
-- 📌 System Tray Integration  
-- 🎭 Dynamic, Movable Tabs  
+- 📌 taskbar and System Tray Integration   
 - 🤖 ChatGPT Full Integration  
-- 🚀 Shortcut Manager 2.0  
 
 > **Early users** will get free lifetime access to premium features!
 
