@@ -118,7 +118,7 @@ Simple as that.
 - 📌 taskbar and System Tray Integration   
 - 🤖 ChatGPT Full Integration  
 
-> **Early users** will get free lifetime access to premium features!, SideSurf may transition to Freemium model
+> ** SideSurf may transition to Freemium model **
 
 ---
 
