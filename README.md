@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://i.postimg.cc/yxtXb3Qq/my-image-1.png" alt="SideSurf Logo" width="200"/>
   
-  [![Download SideSurf](https://img.shields.io/badge/Download-SideSurf-blue?style=for-the-badge&logo=windows)](https://drive.google.com/drive/folders/1xbnh90utRbWriRNcO3yXN8ly-TnFxT62?usp=sharing)
+  [![Download SideSurf](https://img.shields.io/badge/Download-SideSurf-blue?style=for-the-badge&logo=windows)](https://mega.nz/folder/soZ3jDQZ#whgLD7CxcFSajd7rABWr-g)
 </div>
 
 
