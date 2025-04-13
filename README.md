@@ -94,10 +94,9 @@ No copy-pasting to ChatGPT. No switching windows.
 
 Use your voice to:
 
-- Search the web
-- Summarize content
-- Control tabs
-- Listen to articles via Text-to-Speech
+- Talk to Ai with one click
+- Choose different Ai 
+- Seamless integration
 
 Activated with a single shortcut: **Alt + Z**.
 
