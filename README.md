@@ -42,6 +42,11 @@
   - Efficient tab closing (Control+W)
 - **Smart Visibility Controls**: Keyboard shortcuts only work when the browser is visible
 
+### ✨ Flows (Multi-URL Launch)
+- **Save & Launch Sessions**: Group multiple URLs together into a named "Flow".
+- **One-Click Launch**: Open all websites in a Flow simultaneously, each in its own tab.
+- **Session Management**: Easily create, edit, and delete your custom Flows.
+- **Advanced Bookmarking**: Use Flows to quickly restore sets of frequently used websites or project-specific tabs.
 
 ### 🤖 AI-Powered Features
 
@@ -106,7 +111,7 @@
 ### 🎯 Upcoming Features
 > 🌟 **Major Updates on the Horizon!**
 
-1. 🎨 **Frosted Glass Interface**
+1. 🎨 **Frosted Glass Interface** 
    - Beautiful transparent effects
    - Modern and sleek design
 
@@ -115,17 +120,17 @@
    - Quick access from system tray
    - No more disappearing windows!
 
-3. 🎭 **Dynamic Tab System**
+3. 🎭 **Dynamic Tab System** ✅
    - Movable tabs for better organization
    - Support for unlimited tabs
    - Dynamic tab Size
 
-4. ⚡ **Enhanced Shortcut Manager**
+4. ⚡ **Enhanced Shortcut Manager** ✅
    - Working interface for url shortcut
    - Easier shortcut management
    - Quick website access
 
-5. 🤖 **Improved AI Features**
+5. 🤖 **Improved AI Features** ✅
    - Faster response times
    - More accurate results
 
@@ -135,11 +140,6 @@
 1. 🧠 **ChatGPT Integration**
    - All image and text features 
    - Potential voice interaction 
-
-2. 📚 **Bookmarks System**
-   - Easy bookmark management
-   - Quick access to favorites
-   - Organized collections
 
 <div align="center">
   <p><i>🌈 Stay tuned for these exciting updates! 🌈</i></p>
