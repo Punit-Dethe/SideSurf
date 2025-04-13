@@ -18,7 +18,6 @@
 
 <br/>
 
----
 
 ## 📥 Download & Install
 
