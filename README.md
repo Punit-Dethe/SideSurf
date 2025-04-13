@@ -18,6 +18,31 @@
 
 <br/>
 
+---
+
+## 📥 Download & Install
+
+1. Click the "Download SideSurf" button above.
+2. This will open Mega Drive in your browser.
+3. Click the **Download** button at the top and select **Download as ZIP**.
+4. Unzip the downloaded file and open the folder.
+5. Run `SideSurf Setup 1.0.0.exe` to start the installation.
+6. Follow the installation wizard instructions.
+7. Launch SideSurf using **Ctrl + `** (the key above Tab) — and start browsing!
+
+> **Note**: If Windows Defender shows a warning, click **More Info → Run Anyway**.  
+> (This happens with new, unsigned apps — completely safe.)
+
+---
+
+## 💡 Recommended Setup for Best Experience
+
+- **Sign in to Google**: Sign in first to ensure all features work smoothly.
+- **Pin SideSurf** *(optional)*: Pin it to the taskbar for easier access and to avoid disappearing from view.
+- **Explore Settings**: Discover customization options and tailor the browser to your workflow.
+
+---
+
 # ✨ Why SideSurf?
 
 Tired of juggling tabs and losing focus?  
