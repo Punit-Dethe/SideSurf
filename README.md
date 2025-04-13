@@ -138,13 +138,6 @@ Simple as that.
 
 ---
 
-# 🙌 About the Creator
-
-Built with ❤️ by **Punit Dethe**.  
-Focused on creating tools that help people work *smarter, not harder.*  
-
----
-
 # 📝 License
 
 SideSurf is released under the [MIT License](LICENSE).
