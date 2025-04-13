@@ -62,9 +62,9 @@ so you can research, chat, or browse *without ever disrupting your workflow.*
 
 | 🚀 Productivity | 🤖 AI Intelligence | 🎨 Customization |
 |:----------------|:------------------|:----------------|
-| Docked Side Browser | Image & Text Analysis | Custom Keyboard Shortcuts |
-| Flow Manager (multi-URL launcher) | Visual Search | Pin Favorite Sites |
-| Smart Tab Navigation | Voice Assistant (TTS + Commands) | Personalized Workflows |
+| Docked Side Browser | Text Search | Custom Keyboard Shortcuts |
+| Flow Manager (multi-URL launcher) | Visual Search | Custom Website shortcuts |
+| Vertical & Clean tabs | Voice Assistant (TTS + Commands) | Personalized Workflows |
 
 <br/>
 
