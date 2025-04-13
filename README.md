@@ -108,7 +108,6 @@ Activated with a single shortcut: **Alt + Z**.
 2. **Launch** with **Ctrl + `**.
 3. **Browse, Flow, and Create** — without losing focus.
 
-                     Simple as that.
 
 <br/>
 
