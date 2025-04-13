@@ -145,7 +145,7 @@
   <p><i>🌈 Stay tuned for these exciting updates! 🌈</i></p>
 </div>
 
-*Note: These features are in development and will be released in future updates.*
+*Note: When all non optional Features are ready, the browser may transition to paid or freemium model*
 
 
 
