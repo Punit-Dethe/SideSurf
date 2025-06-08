@@ -43,12 +43,6 @@ Sidesurf is a web browser with special features, built with Electron and Vue.
 - Session management and workspaces
 - Side panel for quick tools access
 
-## Integration Features
-- Cross-device sync capability
-- Cloud integration for bookmarks and settings
-- Extension support
-- Web app installation
-- RSS feed integration
 
 ## Coming Soon
 - **Screenshot Widget**: Similar to the text selection widget, this feature will automatically appear when taking a screenshot
