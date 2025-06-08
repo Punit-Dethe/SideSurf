@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Icons/logo.png" alt="Sidesurf Logo" width="200"/>
+  <img src="Icons/logo.png" alt="Sidesurf Logo" width="150"/>
 </div>
 <div align="center">
  <h1>Sidesurf</h1>
