@@ -11,6 +11,7 @@ Sidesurf is a unique, panel-based web browser designed for productivity, built w
 </a>
 </div>
 
+<div align="center"> <h1> video Demo </h1> </div>
 ## Key Features
 
 - **Side Panel Interface:** Instead of a conventional browser window, Sidesurf lives in a panel on the side of your screen. This design is perfect for quick lookups, multitasking, or keeping a reference page open without sacrificing screen real estate from your primary application.
