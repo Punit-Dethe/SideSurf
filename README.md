@@ -24,6 +24,19 @@ Sidesurf is a unique, panel-based web browser designed for productivity, built w
 
 - **AI-Powered Text Widget:** Highlight any text on a webpage to summon an intelligent widget. Use customizable "Prompt Tags" to instantly perform actions like summarizing an article, explaining a concept, debugging a code snippet, or translating foreign text.
 
+## Getting Started
+
+### Installation
+The easiest way to get started is to download the latest version from our [GitHub Releases](https://github.com/sidesurf/sidesurf/releases) page.
+
+### Configuration & Usage Tips
+
+*   **Sign in to Google (Optional):** For a more integrated experience, you can sign in to your Google account. This can enhance functionality across various Google services.
+
+*   **User Agent Settings:** By default, Sidesurf uses a standard Chrome user agent to ensure compatibility. However, some services, like ChatGPT, may work more reliably with a different agent after you've signed into a Google account. We recommend switching your user agent *once* in the settings after your initial Google login for the best results.
+
+*   **Website Shortcuts:** Use the settings to create shortcuts to your most frequently visited websites for even faster navigation.
+
 ## Built With
 
 * [Electron](https://www.electronjs.org/)
