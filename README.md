@@ -39,6 +39,15 @@ The easiest way to get started is to download the latest version from our [GitHu
 
 *   **Website Shortcuts:** Use the settings to create shortcuts to your most frequently visited websites for even faster navigation.
 
+## Future Updates
+
+We are continuously working to improve Sidesurf. Here are some of the features and enhancements on our roadmap:
+
+*   **UI/UX Overhaul:** A complete redesign of the user interface for a more modern, intuitive, and visually appealing experience.
+*   **Image Widget:** Similar to the text widget, you'll be able to interact with any image on a webpage or from your local files. This will include features for analysis, annotation, and quick sharing.
+*   **Taskbar Stability:** We are working on improving the browser's stability and integration with the operating system's taskbar.
+*   **Integrated Notes & Screenshot Storage:** A new system for capturing, storing, and organizing your screenshots and notes directly within the browser.
+
 ## Built With
 
 * [Electron](https://www.electronjs.org/)
