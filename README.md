@@ -2,7 +2,7 @@
   <img src="Icons/logo.png" alt="Sidesurf Logo" width="200"/>
 </div>
 <div align="center">
-# Sidesurf
+ <h1>Sidesurf
 <div>
 Sidesurf is a unique, panel-based web browser designed for productivity, built with Electron and Vue. It rethinks the browsing experience by moving from a traditional window to a sleek, accessible side panel, keeping you focused and efficient.
 
