@@ -8,7 +8,7 @@
 <div align="center"> <h1> Video Demo </h1> </div>
 
 <a href="https://youtu.be/VLCs1Ls3G5I?si=y5CkGHSTGPBn3UN6" target="_blank">
- <img src="Icons\thumbnail.PNG" alt="Sidesurf Demo Video" width="560" height="315" />
+ <img src="Icons\thumbnail.PNG" alt="Sidesurf Demo Video" />
 </a>
 </div>
 
