@@ -5,19 +5,7 @@
  <h1>Sidesurf</h1>
 Sidesurf is a unique, panel-based web browser designed for productivity, built with Electron and Vue. It rethinks the browsing experience by moving from a traditional window to a sleek, accessible side panel, keeping you focused and efficient.
 <br>
-## Key Features
 
-- **Side Panel Interface:** Instead of a conventional browser window, Sidesurf lives in a panel on the side of your screen. This design is perfect for quick lookups, multitasking, or keeping a reference page open without sacrificing screen real estate from your primary application.
-
-- **Vertical Tab Management:** Say goodbye to horizontal tab clutter. Sidesurf uses a vertical tab strip, making it easier to manage and navigate through numerous pages.
-
-- **Total Shortcut Customization:** Personalize your browsing experience by mapping nearly every action to your preferred keyboard shortcuts. This level of control allows for a faster and more intuitive workflow tailored to your habits.
-
-- **Hands-Free Voice Integration:** Leverage the power of AI with built-in voice command support. Interact directly with services like ChatGPT and Copilot for a truly hands-free browsing and research experience.
-
-- **Workflow Automation:** Define and execute custom workflows to automate repetitive tasks. Whether it's a sequence of sites you visit daily or complex data-gathering, the workflow feature acts as your personal browsing assistant.
-
-- **AI-Powered Text Widget:** Highlight any text on a webpage to summon an intelligent widget. Use customizable "Prompt Tags" to instantly perform actions like summarizing an article, explaining a concept, debugging a code snippet, or translating foreign text.
 <div align="center"> <h1> video Demo </h1> </div>
 
 <a href="https://youtu.be/VLCs1Ls3G5I?si=y5CkGHSTGPBn3UN6" target="_blank">
