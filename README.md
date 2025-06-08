@@ -1,121 +1,78 @@
 <div align="center">
-  
-# 🌊 SideSurf
-
-### Your Intelligent Side Browser 🚀  
-**Stay productive, browse smarter — without ever leaving your flow.**
-
-<br/>
-
-<img src="https://i.postimg.cc/yxtXb3Qq/my-image-1.png" width="250"/>
-
----
-
+  <img src="Icons/logo.png" alt="Sidesurf Logo" width="200"/>
 </div>
 
-<br/>
+# Sidesurf
 
+Sidesurf is a web browser with special features, built with Electron and Vue.
 
-## 📥 Download & Install
+<a href="https://youtu.be/VLCs1Ls3G5I?si=y5CkGHSTGPBn3UN6" target="_blank">
+ <img src="http://img.youtube.com/vi/VLCs1Ls3G5I/0.jpg" alt="Sidesurf Demo Video" width="560" height="315" />
+</a>
 
-Download sidesurf latest release, or download from the repo
+## Core Features
+- Multi-tabbed browsing with Ctrl+Tab navigation
+- Integrated address bar with search capability
+- Browsing history management
+- Bookmark system
+- Integrated developer tools
+- Private browsing mode
+- Tab restoration on startup
+- Website zoom controls
+- Quick refresh and navigation buttons
+- Back/forward navigation
+- Download management
 
-> **Note**: If Windows Defender shows a warning, click **More Info → Run Anyway**.  
-> (This happens with new, unsigned apps — completely safe.)
+## Highlighted Features
+- **Custom Shortcuts**: Fully customizable keyboard shortcuts for all browser actions
+- **URL Customization**: Custom URL handlers, search engines, and quick navigation shortcuts
+- **Workflow Feature**: Automation of repetitive tasks and browsing sequences
+- **Text Selection Widget**: AI-powered text analysis with ChatGPT integration and customizable prompt tags
 
----
+## Security & Privacy
+- Privacy-focused browsing options
+- Content filtering capabilities
+- Site permission management
+- Cookie and cache management
+- HTTPS enforcement options
 
-## 💡 Recommended Setup for Best Experience
+## Productivity Tools
+- Split-screen view for multiple websites
+- Reading mode for distraction-free browsing
+- Advanced tab management (grouping, pinning)
+- Session management and workspaces
+- Side panel for quick tools access
 
-- **Sign in to Google**: Sign in first to ensure all features work smoothly.
-- **Pin SideSurf** *(optional)*: Pin it to the taskbar for easier access and to avoid disappearing from view.
-- **Explore Settings**: Discover customization options and tailor the browser to your workflow.
+## Integration Features
+- Cross-device sync capability
+- Cloud integration for bookmarks and settings
+- Extension support
+- Web app installation
+- RSS feed integration
 
----
+## Coming Soon
+- **Screenshot Widget**: Similar to the text selection widget, this feature will automatically appear when taking a screenshot
+  - Integrated text box for notes and annotations
+  - Customizable tags for AI analysis of screenshots
+  - Direct integration with ChatGPT for image analysis
+  - Same workflow integration as the text selection widget
+  - Options to edit, crop, and annotate screenshots before sending to AI
 
-# ✨ Why SideSurf?
+## Accessibility
+- Voice navigation support
+- High contrast mode
+- Text-to-speech capability
+- Keyboard-only navigation options
+- Customizable font sizes and page zoom
 
-Tired of juggling tabs and losing focus?  
-**SideSurf** brings you a smart, minimal browser that docks seamlessly to your screen —  
-so you can research, chat, or browse *without ever disrupting your workflow.*
+## Performance
+- Low memory usage optimization
+- Fast startup time
+- Efficient tab suspension for inactive tabs
+- Hardware acceleration support
+- Battery-saving mode for mobile devices 
 
-✔️ Instant access with a single shortcut  
-✔️ AI-powered features for smarter browsing  
-✔️ Flows to manage multiple websites in one click  
-✔️ Lightweight, beautiful, and fast
+## Built With
 
-<br/>
-
-# ⚡ Features at a Glance
-
-| 🚀 Productivity | 🤖 AI Intelligence | 🎨 Customization |
-|:----------------|:------------------|:----------------|
-| Docked Side Browser | Text Search | Custom Keyboard Shortcuts |
-| Flow Manager (multi-URL launcher) | Visual Search | Custom Website shortcuts |
-| Vertical & Clean tabs | Voice Assistant (TTS + Commands) | Personalized Workflows |
-
-<br/>
-
----
-
-# 🔥 What You Can Do with SideSurf
-
-## 🧠 Launch Your Workflows in Seconds
-
-Create **Flows** — groups of websites you can open together with a click.  
-Jump into your daily tools instantly: Gmail, Trello, Notion, Docs, YouTube — whatever you need.
-
-## 🤖 Unlock the Power of AI, Instantly
-
-Highlight text or images → Hit **Alt + X** →  
-SideSurf brings you instant:
-
-- Explanations
-- Summaries
-- Translations
-- Visual Context
-- Alt Text Generation
-
-No copy-pasting to ChatGPT. No switching windows.
-
-## 🎤 Talk to Your Browser
-
-Use your voice to:
-
-- Talk to Ai with one click
-- Choose different Ai 
-- Seamless integration
-
-Activated with a single shortcut: **Alt + Z**.
-
----
-
-# 🛠️ How It Works
-
-1. **Download** → Install in minutes.
-2. **Launch** with **Ctrl + `**.
-3. **Browse, Flow, and Create** — without losing focus.
-
-
-<br/>
-
----
-
-# 🗺️ Roadmap: What's Coming Next?
-
-- 🎨 Sleek Frosted Glass UI  
-
----
-
-# 📝 License
-
-SideSurf is released under the [MIT License](LICENSE).
-
----
-
-# 📢 Spread the Word!
-
-If you enjoy using SideSurf, feel free to ⭐ the repo or share it with friends!  
-Every bit of feedback makes it even better. 🚀
-
----
+* [Electron](https://www.electronjs.org/)
+* [Vue.js](https://vuejs.org/) 
