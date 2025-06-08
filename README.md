@@ -27,7 +27,7 @@ Sidesurf is a unique, panel-based web browser designed for productivity, built w
 ## Getting Started
 
 ### Installation
-The easiest way to get started is to download the latest version from our [GitHub Releases](https://github.com/sidesurf/sidesurf/releases) page.
+The easiest way to get started is to download the latest version from our [GitHub Releases](https://github.com/Punit-Dethe/SideSurf/releases) page.
 
 ### Configuration & Usage Tips
 
