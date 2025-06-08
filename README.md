@@ -9,12 +9,6 @@
 
 <img src="https://i.postimg.cc/yxtXb3Qq/my-image-1.png" width="250"/>
 
-
-
-
-[![Download Now](https://img.shields.io/badge/Download%20SideSurf-Blue?style=for-the-badge&logo=windows&logoColor=white)](https://mega.nz/folder/soZ3jDQZ#whgLD7CxcFSajd7rABWr-g)
-
-
 ---
 
 </div>
@@ -24,13 +18,7 @@
 
 ## 📥 Download & Install
 
-1. Click the "Download SideSurf" button above.
-2. This will open Mega Drive in your browser.
-3. Click the **Download** button at the top and select **Download as ZIP**.
-4. Unzip the downloaded file and open the folder.
-5. Run `SideSurf Setup 1.0.0.exe` to start the installation.
-6. Follow the installation wizard instructions.
-7. Launch SideSurf using **Ctrl + `** (the key above Tab) — and start browsing!
+Download sidesurf latest release, or download from the repo
 
 > **Note**: If Windows Defender shows a warning, click **More Info → Run Anyway**.  
 > (This happens with new, unsigned apps — completely safe.)
@@ -127,17 +115,6 @@ Activated with a single shortcut: **Alt + Z**.
 
 *(uploading soon 🎥🔥)*
 
----
-
-# 📥 Ready to Surf Smarter?
-
-<div align="center">
-
-[![Download SideSurf](https://img.shields.io/badge/Download%20SideSurf-Blue?style=for-the-badge&logo=windows&logoColor=white)](https://mega.nz/folder/soZ3jDQZ#whgLD7CxcFSajd7rABWr-g)
-
-</div>
-
----
 
 # 📝 License
 
