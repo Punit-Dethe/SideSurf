@@ -104,17 +104,8 @@ Activated with a single shortcut: **Alt + Z**.
 # 🗺️ Roadmap: What's Coming Next?
 
 - 🎨 Sleek Frosted Glass UI  
-- 📌 Taskbar and System Tray Integration   
-- 🤖 ChatGPT Full Integration  
-
-> **SideSurf may transition to Freemium model**
 
 ---
-
-# 🖥️ Screenshots & Demo
-
-*(uploading soon 🎥🔥)*
-
 
 # 📝 License
 
