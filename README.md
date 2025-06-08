@@ -3,8 +3,8 @@
 </div>
 <div align="center">
  <h1>Sidesurf</h1>
-<div>
 Sidesurf is a unique, panel-based web browser designed for productivity, built with Electron and Vue. It rethinks the browsing experience by moving from a traditional window to a sleek, accessible side panel, keeping you focused and efficient.
+</div>
 
 <a href="https://youtu.be/VLCs1Ls3G5I?si=y5CkGHSTGPBn3UN6" target="_blank">
  <img src="http://img.youtube.com/vi/VLCs1Ls3G5I/0.jpg" alt="Sidesurf Demo Video" width="560" height="315" />
